@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jumapaul/jumapaul/master/wave.gif" width="30px">
 
-I am Juma Paul, currently pursuing my bachelor's degree majoring in Electrical Electronics engineering from [Technical University Of Mombasa](https://www.tum.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Juma Paul, pursuing my bachelor's degree in Electrical Electronics Engineering from [Technical University Of Mombasa](https://www.tum.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left">
   <a href=" https://twitter.com/PJuma2018?t=pF5PhDxp_Zj516HZ6i8SOw&s=08">
@@ -42,7 +42,7 @@ I am Juma Paul, currently pursuing my bachelor's degree majoring in Electrical E
 
 ## Stuff I worked on last week⌚
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jumapaul&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@paulodhiambo&compact=True"/>
 </a>
 
 <h2> About Me</h2>
