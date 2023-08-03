@@ -40,11 +40,6 @@ I am Juma Paul, pursuing my bachelor's degree in Electrical Electronics Engineer
 
 <br>
 
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jumapaul&compact=True"/>
-</a>
-
 <h2> About Me</h2>
 
 - 🔭 I’m currently working on mobile development with kotlin.
