@@ -27,6 +27,8 @@ Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring softwa
 ![Spring Boot](https://img.shields.io/badge/-springboot-000000?style=flat-square&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
 ![](https://img.shields.io/badge/compose-blue)
+![Dart](https://img.shields.io/badge/-dart-E34A86?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-0000FF?style=flat-square&logo=flutter)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
@@ -46,4 +48,4 @@ Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring softwa
 
 - 🌱 I’m currently learning golang.
 
-- 👯 I’m looking to collaborate on Open source projects.
+- 👯 Collaborating on Open source projects.
