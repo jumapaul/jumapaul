@@ -26,7 +26,7 @@ Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring softwa
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-springboot-000000?style=flat-square&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20compose%20-compose-blue)
+![](https://img.shields.io/badge/Jetpack%20compose%20-compose-blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
