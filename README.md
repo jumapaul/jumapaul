@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jumapaul/jumapaul/master/wave.gif" width="30px">
 
-I am Juma Paul, pursuing my bachelor's degree in Electrical Electronics Engineering from [Technical University Of Mombasa](https://www.tum.ac.ke/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring software reliability. Proficient in designing, implementing, and deploying scalable cross-platform applications while adhering to industry best practices in software architecture and development. Extensive experience in application development, API integration, and implementing security measures.
 
 <p align="left">
   <a href=" https://twitter.com/PJuma2018?t=pF5PhDxp_Zj516HZ6i8SOw&s=08">
@@ -24,6 +24,7 @@ I am Juma Paul, pursuing my bachelor's degree in Electrical Electronics Engineer
 ## ⚡ Technologies
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-springboot-000000?style=flat-square&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20composeck%20-compose-blue)
 ![Golang](https://img.shields.io/badge/Golang-Go-blue)
