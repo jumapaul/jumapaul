@@ -4,7 +4,7 @@ Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring softwa
 
 <p align="left">
   <a href=" https://twitter.com/PJuma2018?t=pF5PhDxp_Zj516HZ6i8SOw&s=08">
-    <img src="https://img.shields.io/twitter/follow/PJuma2018?PJuma2018?color=green&logo=twitter" alt="twitter" />
+    <img src="https://img.shields.io/twitter/follow/PJuma2018?PJuma2018?color=green&logo=twitter" alt="Twitter" />
   </a>
   <a href="https://github.com/jumapaul/jumapaul">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=jumapaul.jumapaul" alt="page views" />
@@ -26,8 +26,7 @@ Skilled in Kotlin, Java, Springboot and Flutter, with a focus on ensuring softwa
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-springboot-000000?style=flat-square&logo=springboot)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-430098?style=flat-square&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20composeck%20-compose-blue)
-![Golang](https://img.shields.io/badge/Golang-Go-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20compose%20-compose-blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
